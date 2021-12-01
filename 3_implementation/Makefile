@@ -1,4 +1,4 @@
-PROJ_NAME = Traffic control system
+PROJ_NAME = Traffic-control-system
 
 BUILD_DIR = Build
 
