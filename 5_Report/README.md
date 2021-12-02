@@ -137,6 +137,3 @@ THREADS:
 |L_01|If you receive logic 0 from any of these sensors, we have to give the green signal to that particular path and give red signal to all other paths|---|It works|It works|Requirement Based|
 |L_02|Check whether the sensors are working properly during rainy days or not|---|Sensors should work|sensors should work|Scenario Based|
 |L_03|Check whether the light vehicles are sense by the sensor or not|---|Sensor detected|Sensor Detected|Boundary Based|
-
-
-
