@@ -6,7 +6,7 @@
 #include <util/delay.h>
 /**
  * @file traffic-signal-system.h
- * @author SATHIZ13 ()
+ * @author Sharmavel ()
  * @brief Configuration file to define pins and ports for the interfaced peripherals
  * @version 0.1
  * @date 2021-012-1
